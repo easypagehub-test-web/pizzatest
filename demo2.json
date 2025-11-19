@@ -1,0 +1,111 @@
+[
+  {
+    "category": "Pizzat",
+    "name": "Margherita",
+    "ingredients": "tomaattikastike, juusto",
+    "price": "9,90"
+  },
+  {
+    "category": "Pizzat",
+    "name": "Funghi",
+    "ingredients": "tomaattikastike, juusto, herkkusienet",
+    "price": "10,90"
+  },
+  {
+    "category": "Pizzat",
+    "name": "Salami",
+    "ingredients": "tomaattikastike, juusto, salami",
+    "price": "10,90"
+  },
+  {
+    "category": "Pizzat",
+    "name": "Pepperoni",
+    "ingredients": "tomaattikastike, juusto, pepperoni",
+    "price": "11,90"
+  },
+  {
+    "category": "Pizzat",
+    "name": "Hawaii",
+    "ingredients": "tomaattikastike, juusto, kinkku, ananas",
+    "price": "12,90"
+  },
+  {
+    "category": "Pizzat",
+    "name": "Opera",
+    "ingredients": "tomaattikastike, juusto, kinkku, tonnikala",
+    "price": "12,90"
+  },
+  {
+    "category": "Pizzat",
+    "name": "Quattro Stagioni",
+    "ingredients": "tomaattikastike, juusto, kinkku, sienet, artisokka, oliivit",
+    "price": "11,90"
+  },
+  {
+    "category": "Pizzat",
+    "name": "Quattro Formaggi",
+    "ingredients": "tomaattikastike, neljä juustoa",
+    "price": "10,90"
+  },
+  {
+    "category": "Pizzat",
+    "name": "Vegetariana",
+    "ingredients": "tomaattikastike, juusto, kasvikset",
+    "price": "11,90",
+    "vegan": true
+  },
+  {
+    "category": "Pizzat",
+    "name": "Diavola",
+    "ingredients": "tomaattikastike, juusto, tulinen salami",
+    "price": "12,90"
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kebab rulla",
+    "ingredients": "kebab, salaatti, kastike",
+    "price": "12,50"
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kebab pita",
+    "ingredients": "kebab, salaatti, kastike",
+    "price": "12,50"
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kebab riisillä",
+    "ingredients": "kebab, riisi, kastike",
+    "price": "12,50"
+  },
+  {
+    "category": "Kebabit",
+    "name": "Iskender",
+    "ingredients": "kebab, leipä, kastike, jogurtti",
+    "price": "12,50"
+  },
+  {
+    "category": "Juomat",
+    "name": "Iso juoma 1,5 L",
+    "ingredients": "Pepsi, Pepsi max",
+    "price": "5,00"
+  },
+  {
+    "category": "Juomat",
+    "name": "Pieni juoma 0,5 L",
+    "ingredients": "Pepsi, Pepsi max, Sprite",
+    "price": "2,50"
+  },
+  {
+    "category": "Tarjoukset",
+    "name": "2 annosta + 1,5 L juoma",
+    "ingredients": "2x pizza/kebab sekä iso juoma (Pepsi / Pepsi max)",
+    "price": "22,50"
+  },
+  {
+    "category": "Tarjoukset",
+    "name": "4 annosta + 1,5 L juoma",
+    "ingredients": "4x pizza/kebab sekä iso juoma (Pepsi / Pepsi max)",
+    "price": "42,50"
+  }
+]

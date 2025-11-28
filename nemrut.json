@@ -1,0 +1,328 @@
+[
+  {
+    "category": "Pizzat",
+    "name": "Margherita",
+    "ingredients": "tomaattikastike, juusto, tuore basilika",
+    "price": "M 10.90 / L 20.00",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Tropicana",
+    "ingredients": "Kinkku, ananas",
+    "price": "M 12.00 / L 22.00",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Jauheliha",
+    "ingredients": "Jauheliha, juusto",
+    "price": "M 10.90 / L 20.00",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Tonnikala Pepperoni",
+    "ingredients": "tomaattikastike, juusto, pepperonimakkara, tonnikala",
+    "price": "M 12.40 / L 22.40",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Opera",
+    "ingredients": "tomaattikastike, juusto, palvikinkku, tonnikala",
+    "price": "M 12.60 / L 22.60",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Special Opera",
+    "ingredients": "tomaattikastike, juusto, kinkku, tonnikala, salami",
+    "price": "M 12.80 / L 22.80",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Americano",
+    "ingredients": "tomaattikastike, juusto, kinkku, tuore ananas, aurajuusto",
+    "price": "M 12.80 / L 22.80",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Pepperoni",
+    "ingredients": "tomaattikastike, juustoa",
+    "price": "M 11.00 / L 20.00",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Chippendale Hawai",
+    "ingredients": "tomaattikastike, juusto, grillattu kana, tuore ananas, aurajuusto",
+    "price": "M 12.80 / L 22.80",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Kebab Pizza",
+    "ingredients": "Tuore kebab, jäävuorisalaatti, banaani, chili, tuore sipuli, smetana",
+    "price": "M 13.20 / L 23.20",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Zorbas Pizza",
+    "ingredients": "tomaattikastike, juusto, herkkusieni, punasipuli, oliivi, feta, paprika",
+    "price": "M 13.20 / L 23.20",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Prosciutto",
+    "ingredients": "tomaattikastike, juusto, ilmakuivattu kinkku, parmesan, rucola, tomaatti",
+    "price": "M 13.50 / L 23.50",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Pollo BBQ",
+    "ingredients": "tomaattikastike, juusto, kana, ananas, pekoni, bbq-kastike",
+    "price": "M 13.50 / L 23.50",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Chili Kana",
+    "ingredients": "tomaattikastike, juusto, kana, vuohenjuusto, paholaisen hillo, rucola",
+    "price": "M 13.50 / L 23.50",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Quatro",
+    "ingredients": "tomaattikastike, juusto, tonnikala, kinkku, herkkusieni, katkarapu",
+    "price": "M 12.90 / L 22.90",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Mexicana",
+    "ingredients": "tomaattikastike, juusto, pepperonimakkara, ananas, jalopeno",
+    "price": "M 12.60 / L 22.60",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Poro Pizza",
+    "ingredients": "tomaattikastike, juusto, herkkusieni, poro, punasipuli, kantarelli",
+    "price": "M 13.90 / L 23.90",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Perfetta",
+    "ingredients": "Täytteellä",
+    "price": "Riippuu täytteestä",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Vip Pizza Queen",
+    "ingredients": "Tuore mozzarella, kirsikkatomaatti, rucola, parmesan",
+    "price": "M 13.50 / L 23.50",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Vip Pizza Supreme",
+    "ingredients": "Pepperonimakkara, paprika, punasipuli, herkkusieni, tuore kebab",
+    "price": "M 14.50 / L 26.50",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Vip Pizza Greek Vege",
+    "ingredients": "Suippopaprika, punasipuli, feta, rucola, kirsikkatomaatti",
+    "price": "M 13.90 / L 25.90",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Vip Pizza Meat Lovers",
+    "ingredients": "Kinkku, pepperonimakkara, jauheliha, kebab, pekoni, salami, valkosipuli",
+    "price": "M 14.50 / L 26.50",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Vip Pizza Salami",
+    "ingredients": "Salami, punasipuli, oliivi, paprika",
+    "price": "M 12.90 / L 22.90",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Vip Pizza Meri Pizza",
+    "ingredients": "Tonnikala, katkarapu, simpukka",
+    "price": "M 12.90 / L 22.90",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Vip Pizza Inferno",
+    "ingredients": "Chorizo, punasipuli, jalapeno, mozzarella, rucola",
+    "price": "M 14.50 / L 26.50",
+    "vegan": false
+  },
+
+  {
+    "category": "Pizzat",
+    "name": "Zone Kebab",
+    "ingredients": "Jäävuorisalaatti, pikkelöity punasipuli, jalapeno, tuore kebab",
+    "price": "12.90",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Zone Pepperoni",
+    "ingredients": "Jäävuorisalaatti, tuore sipuli, ananas, pepperonimakkara, aurajuusto",
+    "price": "12.60",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Zone Vege",
+    "ingredients": "Jäävuorisalaatti, tuore sipuli, tuore paprika, fetajuusto, oliivi",
+    "price": "12.80",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Zone Kana",
+    "ingredients": "Jäävuorisalaatti, tuore sipuli, maustettu kurkku, kirsikkatomaatti, grillattu kana",
+    "price": "13.50",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Zone Aura",
+    "ingredients": "Jäävuorisalaatti, pepperonimakkara, pikkelöity punasipuli, aurajuusto",
+    "price": "12.80",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "BBQ Zone",
+    "ingredients": "Jäävuorisalaatti, pariloitu kana, fetajuusto, tuore paprika, rucola",
+    "price": "12.90",
+    "vegan": false
+  },
+  {
+    "category": "Pizzat",
+    "name": "Omavalintainen Zone",
+    "ingredients": "Sisältää yhden normaalihintaisen täytteen",
+    "price": "11.60",
+    "vegan": false
+  },
+
+  {
+    "category": "Kebabit",
+    "name": "Kebab rulla",
+    "ingredients": "kebab, salaatti, kastike",
+    "price": "12.50",
+    "vegan": false
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kebab pita",
+    "ingredients": "kebab, salaatti, kastike",
+    "price": "10.90",
+    "vegan": false
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kebab ranskalaisilla",
+    "ingredients": "kebab, ranskalaiset, kastike",
+    "price": "12.50",
+    "vegan": false
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kebab riisillä",
+    "ingredients": "kebab, riisi, kastike",
+    "price": "12.50",
+    "vegan": false
+  },
+  {
+    "category": "Kebabit",
+    "name": "Iskender",
+    "ingredients": "kebab, leipä, kastike, jogurtti",
+    "price": "13.00",
+    "vegan": false
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kana rulla",
+    "ingredients": "kana, salaatti, kastike",
+    "price": "12.50",
+    "vegan": false
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kana pita",
+    "ingredients": "kana, salaatti, kastike",
+    "price": "11.90",
+    "vegan": false
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kana ranskalaisilla",
+    "ingredients": "kana, ranskalaiset, kastike",
+    "price": "13.50",
+    "vegan": false
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kana riisillä",
+    "ingredients": "kana, riisi, kastike",
+    "price": "13.50",
+    "vegan": false
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kana salaatti",
+    "ingredients": "kana kebab, jäävuorisalaatti",
+    "price": "14.00",
+    "vegan": false
+  },
+  {
+    "category": "Kebabit",
+    "name": "Kebab salaatti",
+    "ingredients": "kebab, jäävuorisalaatti, kastike, jogurtti",
+    "price": "13.00",
+    "vegan": false
+  },
+
+  {
+    "category": "Juomat",
+    "name": "Iso juoma 1.5 L",
+    "ingredients": "Pepsi, Pepsi Max",
+    "price": "5.50",
+    "vegan": false
+  },
+  {
+    "category": "Juomat",
+    "name": "Pieni juoma 0.33 L",
+    "ingredients": "Pepsi, Pepsi Max, Sprite",
+    "price": "2.70",
+    "vegan": false
+  },
+
+  {
+    "category": "Tarjoukset",
+    "name": "Lounas tarjous",
+    "ingredients": "Kaikki normaali kokoiset pizzat ja kebabit arkisin, sisältää juoman ja salaatin",
+    "price": "12.90",
+    "vegan": false
+  }
+]

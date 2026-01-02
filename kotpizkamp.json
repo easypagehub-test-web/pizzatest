@@ -1,0 +1,359 @@
+[
+  {
+    "category": "Klassikkopizzat",
+    "name": "Special Opera",
+    "ingredients": "Tonnikala, kinkku, salami",
+    "price": "M 13.40 / L 25.90",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Americana",
+    "ingredients": "Kinkku, ananas, AURA®-juusto",
+    "price": "M 13.40 / L 25.90",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Lihamestari",
+    "ingredients": "Kinkku, beef’n’roast-naudanjauheliha, paahdettu pekoni, kebabliha, pepperonimakkara",
+    "price": "M 15.40 / L 29.90",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Tropicana",
+    "ingredients": "Kinkku, ananas",
+    "price": "M 12.40 / L 23.90",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Quattro Stagioni",
+    "ingredients": "Tonnikala, kinkku, herkkusieni, katkarapu",
+    "price": "M 13.90 / L 26.90",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Diavola",
+    "ingredients": "Salami, nduja-makkara, hunaja, Calabrian chilirouhe",
+    "price": "M 14.90 / L 28.50",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Mexicana",
+    "ingredients": "Mexicana-kastike, pepperonimakkara, ananas, jalapeno",
+    "price": "M 13.90 / L 26.90",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Pollo Americana",
+    "ingredients": "Pariloitu kananpoika, ananas, AURA®-juusto",
+    "price": "M 12.90 / L 24.90",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Burger",
+    "ingredients": "Beef’n’roast-naudanjauheliha, cheddarjuustokastike, salaatti, long island -hampurilaiskastike",
+    "price": "M 13.90 / L 26.50",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Poro",
+    "ingredients": "Ruiskuitupohja, savuporo, kantarelli, punasipuli, poropöly",
+    "price": "M 15.40 / L 29.90",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Parmiamo",
+    "ingredients": "Ilmakuivattu porsaanniska, kirsikkatomaatti, rucolanverso, parmesaanijuusto",
+    "price": "M 15.40 / L 29.90",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Opera",
+    "ingredients": "Tonnikala, kinkku",
+    "price": "M 12.60 / L 24.40",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Mozzarella",
+    "ingredients": "Tuore mozzarella (lisätään uunin jälkeen), kirsikkatomaatti, rucolanverso",
+    "price": "M 14.90 / L 28.50",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Jauheliha",
+    "ingredients": "Jauhelihakastike",
+    "price": "M 11.90 / L 22.50",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Pepperoni-tonnikala",
+    "ingredients": "Tonnikala, pepperonimakkara",
+    "price": "M 12.60 / L 24.40",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Kebab",
+    "ingredients": "Kebabkastike, kebabliha tuplana, punasipuli, salaatti, valkosipulimajoneesi",
+    "price": "M 14.60 / L 28.40",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Zorbas",
+    "ingredients": "Feta, punasipuli, paprika, oliivi",
+    "price": "M 14.90 / L 28.50",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Pekoni-Barbecue",
+    "ingredients": "Barbecuekastike, paahdettu pekoni, punasipuli, ananas",
+    "price": "M 14.60 / L 28.40",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Margherita",
+    "ingredients": "Lisäjuusto",
+    "price": "M 11.90 / L 22.50",
+    "vegan": false
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Superseitan",
+    "ingredients": "Valio Oddlygood® Veggie Mozzarella -raaste, seitan, paprika, keltainen banaanichili, vegaaninen valkosipulimajoneesi",
+    "price": "M 13.90 / L 26.90",
+    "vegan": true
+  },
+  {
+    "category": "Klassikkopizzat",
+    "name": "Tuplapepperoni",
+    "ingredients": "Pepperonimakkara tuplana",
+    "price": "M 12.40 / L 23.90",
+    "vegan": false
+  },
+  {
+    "category": "Monsterit",
+    "name": "Kentucky",
+    "ingredients": "Pariloitu kananpoika tuplana, paahdettu pekoni, feta, punasipuli",
+    "price": "M 16.50 / L 32.90",
+    "vegan": false
+  },
+  {
+    "category": "Monsterit",
+    "name": "New Mexico",
+    "ingredients": "Mexicana-kastike, beef’n’roast-naudanjauheliha, cheddarjuustokastike, punasipuli, avokado",
+    "price": "M 16.50 / L 32.90",
+    "vegan": false
+  },
+  {
+    "category": "Monsterit",
+    "name": "Texas",
+    "ingredients": "Kinkku, paahdettu pekoni, kebabliha, salami, pepperonimakkara",
+    "price": "M 16.50 / L 32.90",
+    "vegan": false
+  },
+  {
+    "category": "Monsterit",
+    "name": "New York",
+    "ingredients": "Pariloitu kananpoika, pepperonimakkara, ananas, AURA®-juusto, punasipuli",
+    "price": "M 16.50 / L 32.90",
+    "vegan": false
+  },
+  {
+    "category": "Monsterit",
+    "name": "Omavalintainen",
+    "ingredients": "5 valitsemaasi täytettä",
+    "price": "alk. M 16.50 / alk. L 32.90",
+    "vegan": false
+  },
+  {
+    "category": "Rullat",
+    "name": "Seitanrulla",
+    "ingredients": "Kebabkastike, Valio Oddlygood® Veggie Mozzarella -raaste, seitan, keltainen banaanichili, Hotti-kastike, vegaaninen valkosipulimajoneesi, salaatti, punasipuli",
+    "price": "12.40",
+    "vegan": true
+  },
+  {
+    "category": "Rullat",
+    "name": "Härkäpapurulla",
+    "ingredients": "Kebabkastike, Kotipizza-juusto, fermentoitu currymaustettu härkäpapu, keltainen banaanichili, Hotti-kastike, valkosipulimajoneesi, salaatti, punasipuli",
+    "price": "12.40",
+    "vegan": false
+  },
+  {
+    "category": "Rullat",
+    "name": "Kebabrulla",
+    "ingredients": "Kebabkastike, Kotipizza-juusto, kebabliha, keltainen banaanichili, Hotti-kastike, valkosipulimajoneesi, salaatti, punasipuli",
+    "price": "12.40",
+    "vegan": false
+  },
+  {
+    "category": "Rullat",
+    "name": "Kanarulla",
+    "ingredients": "Kebabkastike, Kotipizza-juusto, grillimaustettu kananpoika, keltainen banaanichili, Hotti-kastike, valkosipulimajoneesi, salaatti, punasipuli",
+    "price": "12.40",
+    "vegan": false
+  },
+  {
+    "category": "Kotzonet",
+    "name": "Caesar",
+    "ingredients": "Caesarkastike, katkarapu tai pariloitu kananpoika, parmesaanijuusto",
+    "price": "13.50",
+    "vegan": false
+  },
+  {
+    "category": "Kotzonet",
+    "name": "Kana",
+    "ingredients": "Pariloitu kananpoika tuplana",
+    "price": "12.60",
+    "vegan": false
+  },
+  {
+    "category": "Kotzonet",
+    "name": "Kebab",
+    "ingredients": "Kebabkastike, kebabliha, jalapeno",
+    "price": "13.60",
+    "vegan": false
+  },
+  {
+    "category": "Kotzonet",
+    "name": "Feta",
+    "ingredients": "Feta, paprika, punasipuli",
+    "price": "13.60",
+    "vegan": false
+  },
+  {
+    "category": "Kotzonet",
+    "name": "Kana-Feta-Avokado",
+    "ingredients": "Pariloitu kananpoika, feta, avokado",
+    "price": "13.60",
+    "vegan": false
+  },
+  {
+    "category": "Kotzonet",
+    "name": "Pepperoni-Aura",
+    "ingredients": "Pepperonimakkara, AURA®-juusto, punasipuli",
+    "price": "13.60",
+    "vegan": false
+  },
+  {
+    "category": "Kotzonet",
+    "name": "Tulinen Kana",
+    "ingredients": "Mexicana-kastike, pariloitu kananpoika, ananas, punasipuli",
+    "price": "14.60",
+    "vegan": false
+  },
+  {
+    "category": "Kotzonet",
+    "name": "Barbecue",
+    "ingredients": "Barbecuekastike, pariloitu kananpoika, AURA®-juusto, paprika",
+    "price": "14.60",
+    "vegan": false
+  },
+  {
+    "category": "Kotzonet",
+    "name": "Omavalintainen",
+    "ingredients": "Sisältää yhden valitsemasi täytteen.",
+    "price": "alk. 11.60",
+    "vegan": false
+  },
+  {
+    "category": "Luksuslankut",
+    "name": "Beef’n’Roast",
+    "ingredients": "Cheddarjuustokastike, juusto, beef’n’roast-naudanjauheliha tuplana, jalapeno, rucolanverso, pikkelöity punasipuli, chipotlemajoneesi + dippi",
+    "price": "17.90",
+    "vegan": false
+  },
+  {
+    "category": "Luksuslankut",
+    "name": "Vege",
+    "ingredients": "Koskenlaskija®-juustokastike, feta tuplana, oliivi, kirsikkatomaatti, kurpitsansiemen, rucolanverso, pikkelöity punasipuli, valkosipulimajoneesi + dippi",
+    "price": "18.90",
+    "vegan": false
+  },
+  {
+    "category": "Luksuslankut",
+    "name": "Crudo",
+    "ingredients": "Koskenlaskija®-juustokastike, juusto, ilmakuivattua porsaanniskaa puolet enemmän, kirsikkatomaatti, kurpitsansiemen, rucolanverso, pikkelöity punasipuli, parmesaanijuusto, valkosipulimajoneesi + dippi",
+    "price": "18.90",
+    "vegan": false
+  },
+  {
+    "category": "Luksuslankut",
+    "name": "Kana",
+    "ingredients": "Cheddarjuustokastike, juusto, feta, pariloitu kananpoika tuplana, avokado, rucolanverso, pikkelöity punasipuli, chilimajoneesi + dippi",
+    "price": "18.90",
+    "vegan": false
+  },
+  {
+    "category": "Luksuslankut",
+    "name": "Salami",
+    "ingredients": "Tomaattikastike, juusto, salami tuplana, oliivi, paprika, rucolanverso, pikkelöity punasipuli, valkosipulimajoneesi + dippi",
+    "price": "17.90",
+    "vegan": false
+  },
+  {
+    "category": "Luksuslankut",
+    "name": "Omavalintainen",
+    "ingredients": "Sisältää tomaattikastiketta, juustoa, yhden valitsemasi täytteen, kastikeraidat + dipin.",
+    "price": "alk. 13.90",
+    "vegan": false
+  },
+  {
+    "category": "Juomat",
+    "name": "Hanavesi",
+    "ingredients": "",
+    "price": "0.50",
+    "vegan": true
+  },
+  {
+    "category": "Juomat",
+    "name": "Hanalimu (juo niin paljon kuin haluat)",
+    "ingredients": "",
+    "price": "3.90",
+    "vegan": true
+  },
+  {
+    "category": "Juomat",
+    "name": "Limu 0,5 L",
+    "ingredients": "",
+    "price": "3.90",
+    "vegan": true
+  },
+  {
+    "category": "Juomat",
+    "name": "Limu 1,5 L",
+    "ingredients": "",
+    "price": "5.90",
+    "vegan": true
+  },
+  {
+    "category": "Juomat",
+    "name": "Red Bull 0,25 L",
+    "ingredients": "Ei alle 15-vuotiaille (kofeiinijuoma).",
+    "price": "3.15",
+    "vegan": false
+  },
+  {
+    "category": "Dipit",
+    "name": "Dippi",
+    "ingredients": "Makuvalikoima saattaa vaihdella.",
+    "price": "1.20",
+    "vegan": false
+  }
+]
